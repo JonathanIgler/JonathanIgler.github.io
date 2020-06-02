@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Master Thesis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/master_thesis
+excerpt: ''
+date: 2019-09-29
+venue: 'Master Thesis'
+paperurl: 'http://academicpages.github.io/files/MA_3150650.pdf'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper gives an overview of the recent problems that arose in the field of urban logistics focusing on the methods proposed to solve these problems. For this purpose, we introduce several exact methods, (meta-)heuristics, learnheuristics and hybridizations in a unified fashion. We especially stress the importance of recently proposed state-of-the-art machine learning methods incorporating crucial methods of Artificial Intelligence. Further, we propose a new classification scheme for the categorization of heuristics. This scheme is more extensive and provides more diversification dimensions than common in the current literature.\\
+In both a large-scale simulation study and an application on real word data, we implemented major representative methods of each class in order to be able to make a comparative analysis. Building upon our results, we point out the inefficiency of exact methods as well as the power of a new hybrid, the Gnowee algorithm.\\
+Moreover, we showe that learnheuristics generalize well by incorporating training of metaheuristics for a specified problem. Because of their huge potential, they are fast developing and promise steep progress for future research.\\
+To provide an outlook on future research, we eventually identify prospective challenges facing urban logistics such as an increasing environmental awareness, industry 4.0 and Internet of Things. We hereby stress the social drift to a data-driven society and the opportunities green industry provides urban entrepreneurs.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://jonathanigler.github.io/files/ma_3150650.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
