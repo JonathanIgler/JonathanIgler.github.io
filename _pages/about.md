@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+Hallo, ich heiße Jonathan und bin Hobby Programmierer
