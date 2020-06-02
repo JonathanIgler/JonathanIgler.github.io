@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my Website"
+title                    : "Welcome to my Website!"
 title_separator          : "-"
 name                     : &name "Jonathan Christopher Igler"
 description              : &description "Master of Science in Banking and Finance."
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "jonathanchristopherigler@gmail.com"
-  researchgate     :  
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         : "Jonathan Christopher Igler"
   foursquare       :
-  github           : "JonathanIgler
+  github           : "jonathanigler.github.io"
   google_plus      :
   keybase          :
-  instagram        : 
-  impactstory      : 
+  instagram        : "Jonathan_Igler"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/feed/"
   orcid            : 
@@ -309,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-cayman
