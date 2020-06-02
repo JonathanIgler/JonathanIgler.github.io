@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jonathan Christopher Igler"
   avatar           : "JCI.png"
-  bio              : "MSc. in Banking an Finance, Thesis on..."
+  bio              : "MSc. in Banking an Finance"
   location         : "Hanover"
   employer         : "expert SE"
   pubmed           : 
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/feed/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Jonathan_Igler"
   vine             :
   weibo            :
   xing             :
