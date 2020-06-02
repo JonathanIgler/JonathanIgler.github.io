@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jonathan CHristopher Igler"
-  avatar           : "Bewerbungsbild.jpg"
+  name             : "Jonathan Christopher Igler"
+  avatar           : "JCI.png"
   bio              : "MSc. in Banking an Finance, Thesis on..."
   location         : "Hanover"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "expert SE"
+  pubmed           : 
+  googlescholar    : 
   email            : "jonathanchristopherigler@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Jonathan Christopher Igler"
   foursquare       :
-  github           : "academicpages"
+  github           : "jonathanigler.github.io"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "Jonathan_Igler"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/feed/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
