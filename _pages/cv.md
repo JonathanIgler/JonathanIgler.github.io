@@ -45,14 +45,10 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  * Guerilla Marketing for Cinemas at Deadpool 2 premiere in Berlin, Germany.
   
 Teaching
 ======
