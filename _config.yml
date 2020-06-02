@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my Website!"
+title                    : "Welcome to my Website"
 title_separator          : "-"
 name                     : &name "Jonathan Christopher Igler"
 description              : &description "Master of Science in Banking and Finance."
