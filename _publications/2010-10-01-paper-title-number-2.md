@@ -1,11 +1,14 @@
 ---
 title: "Bachelor Thesis"
 collection: publications
-permalink: /publication/BA_3150650
+permalink: /publication/bachelor_thesis
 excerpt: ''
 date: 2019-01-22
+venue: 'Bachelor Thesis'
 paperurl: 'http://academicpages.github.io/files/BA_3150650.pdf'
 
-This paper focuses on the...
+---
 
-[Download paper here](http://academicpages.github.io/files/BA_3150650.pdf)
+[Download paper here](http://jonathanigler.github.io/files/BA_3150650.pdf)
+
+
