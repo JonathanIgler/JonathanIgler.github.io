@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/master_thesis
 excerpt: ''
 date: 2019-09-29
-venue: 'Master Thesis'
+
 paperurl: 'http://academicpages.github.io/files/MA_3150650.pdf'
 
 ---
