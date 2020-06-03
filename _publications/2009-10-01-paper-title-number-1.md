@@ -1,7 +1,7 @@
 ---
 title: "Master Thesis"
-collection: publications
-permalink: /publication/master_thesis
+collection: thesis
+permalink: /thesis/master_thesis
 excerpt: ''
 date: 2019-09-29
 
