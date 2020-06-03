@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+paperurl: 'http://jonathanigler.github.io/files/BA_3150650.pdf'
+
 {% include base_path %}
 
 Education
@@ -17,19 +19,30 @@ Education
 
 Work experience
 ======
-* Sping 2016: Deputy Chief at Kinowelt Alfeld (Leine)
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+ * Currently: Junior Controller and Data Protection Coordinator at expert Warenvertrieb GmbH
+  *
+  *
+  *
+  
 * Fall 2019: Working Student at expert SE
   * Leading in acquiring subsidies 
   * Analysis of profit centers
   
- * Currently: Junior Controller and Data Protection Coordinator at expert SE
+* 2016 - 2019: Deputy Chief at Kinowelt Alfeld (Leine)
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
+ * 2014 - 2016: Meyer
   *
   *
   *
+
+* 2010-2012 : Language Teacher 
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git  
+
  
   
 Skills
@@ -39,14 +52,16 @@ Skills
   * Proficient in English 
   * Basic knowledge in French and Spanish
   
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Statisticalk Software R
+  * Python
+  * HTML (Basics)
+  
+* Service and leadership
+  *
 
   
-Talks
+Talks/Lectures
 ======
   * Guerilla Marketing for Cinemas at Deadpool 2 premiere in Berlin, Germany.
   
@@ -59,3 +74,4 @@ Teaching
 Service and leadership
 ======
 * 
+[Download paper here](http://jonathanigler.github.io/files/BA_3150650.pdf)
