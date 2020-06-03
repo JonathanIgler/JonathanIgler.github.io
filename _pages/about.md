@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Jonathan Christopher Igler"
+title: "Hi, I am Jonathan Christopher Igler."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
