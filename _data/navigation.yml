@@ -1,9 +1,12 @@
 # main links links
 main:
-- title: "Thesis"
+  - title: "Thesis"
     url: /thesis/
 
-  - title: "Teachings"
+  - title: "Biography"
+    url: /biography/    
+
+  - title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
@@ -17,4 +20,3 @@ main:
     
   - title: "Guide"
     url: /markdown/
-
