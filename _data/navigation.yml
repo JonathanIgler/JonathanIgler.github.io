@@ -1,13 +1,16 @@
 # main links links
 main:
+  - title: "Biography"
+    url: /biography/
+    
   - title: "Research"
     url: /publications/
 
-  - title: "Lecture"
-    url: /talks/    
+  - title: "Portfolio"
+    url: /portfolio/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Hire me"
+    url: /hireme/    
     
   - title: "CV"
     url: /cv/
