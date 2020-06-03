@@ -80,5 +80,5 @@ Interests
 
 ======
 * 
-[Download the PDF of my Resume here](http://jonathanigler.github.io/files/CV_JonathanIgler.pdf)
-[Download the PDF of my CV here](http://jonathanigler.github.io/files/CV_JonathanIgler.pdf)
+[Download the PDF of my German CV here](http://jonathanigler.github.io/files/CV_JonathanIgler_GER.pdf)
+[Download the PDF of my CV here](http://jonathanigler.github.io/files/CV_JonathanIgler_GER.pdf)
