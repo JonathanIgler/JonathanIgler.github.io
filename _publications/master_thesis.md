@@ -18,5 +18,5 @@ Moreover, we showe that learnheuristics generalize well by incorporating trainin
 
 To provide an outlook on future research, we eventually identify prospective challenges facing urban logistics such as an increasing environmental awareness, industry 4.0 and Internet of Things. We hereby stress the social drift to a data-driven society and the opportunities green industry provides urban entrepreneurs.
 
-[Download paper here](http://jonathanigler.github.io/files/MA_3150650.pdf)
+[Download thesis here](http://jonathanigler.github.io/files/MA_3150650.pdf)
 
