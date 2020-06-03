@@ -10,9 +10,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Leibniz Universität Hanover, 2018
 * M.S. in Banking and Finance, Leibniz Universität Hanover, 2019
   * Thesis on Urban Logistics Routing Problems: Analysis of Heuristic Methods
+ * B.S. in Economics, Leibniz Universität Hanover, 2018
+ * Studienkolleg Hannover, Hoschulzulassung, 2013-2014
+ * Cursinho Objetivo, Sao Paulo, 2010 - 2012
+ * Colégio Geraldo de Lima, Sao Paulo, 2010
+ * Colégio Exato, Sao Paulo, 2007 - 2009
+ * Gisela Gymnasium, Munich, 2003 - 2007
+ * SChwindschule, München, 2000 - 2003
 
 Work experience
 ======
