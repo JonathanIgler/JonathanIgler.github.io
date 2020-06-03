@@ -67,7 +67,6 @@ Teaching
   * English
   * German
   
-Service and leadership
 ======
 * 
-[Download paper here](http://jonathanigler.github.io/files/BA_3150650.pdf)
+[Download cv here](http://jonathanigler.github.io/files/BA_3150650.pdf)
