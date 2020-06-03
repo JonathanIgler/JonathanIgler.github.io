@@ -77,4 +77,4 @@ Teaching
   
 ======
 * 
-[Download my a PDF of my CV here](http://jonathanigler.github.io/files/CV_JonathanIgler.pdf)
+[Download the PDF of my CV here](http://jonathanigler.github.io/files/CV_JonathanIgler.pdf)
