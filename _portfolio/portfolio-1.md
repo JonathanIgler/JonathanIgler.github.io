@@ -1,11 +1,12 @@
-layout: archive
-title: "German Curriculum Vitae"
-permalink: /cv/German
-author_profile: true
-redirect_from:
-  - /resume
 ---
-{% include base_path %}
+title: "Curriculum Vitae in German"
+collection: CV
+permalink: /cv/cv_german
+excerpt: "Deutscher lebenslauf"
+
+paperurl: 'http://jonathanigler.github.io/files/CV_JonathanIgler_GER.pdf'
+
+---
 
 Education
 ======
