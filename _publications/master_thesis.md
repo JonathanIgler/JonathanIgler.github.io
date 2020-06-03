@@ -1,6 +1,6 @@
 ---
 title: "Master Thesis"
-% collection: Thesis
+collection: Thesis
 permalink: /thesis/master_thesis
 excerpt: "Urban Logistic Problems: A comparative study on heuristic approaches"
 date: 2019-09-29
