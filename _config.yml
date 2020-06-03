@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Jonathan_Igler
+  username               : @Jonathan_Igler
 facebook:
   username               : Jonathan Christopher Igler
   app_id                 :
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "jonathanchristopherigler@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -99,17 +99,17 @@ author:
   github           : "jonathanigler.github.io"
   google_plus      :
   keybase          :
-  instagram        : "Jonathan_Igler"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : 
+  impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/feed/"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "Jonathan_Igler"
+  twitter          : "@Jonathan_Igler"
   vine             :
   weibo            :
   xing             :
