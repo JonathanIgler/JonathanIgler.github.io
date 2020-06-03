@@ -60,11 +60,7 @@ Skills
   * Statisticalk Software R
   * Python
   * HTML (Basics)
-  
-* Service and leadership
-  *
-
-  
+    
 Talks/Lectures
 ======
   * Guerilla Marketing for Cinemas at Deadpool 2 premiere in Berlin, Germany.
@@ -75,6 +71,14 @@ Teaching
   * English
   * German
   
+Interests  
+======
+* Voluntary work at local food banks
+* Sports and fitness
+* Photography
+* Acquiring further skills in statistical methods and programming
+
 ======
 * 
+[Download the PDF of my Resume here](http://jonathanigler.github.io/files/CV_JonathanIgler.pdf)
 [Download the PDF of my CV here](http://jonathanigler.github.io/files/CV_JonathanIgler.pdf)
