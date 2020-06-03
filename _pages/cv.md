@@ -75,4 +75,4 @@ Teaching
   
 ======
 * 
-[Download cv here](http://jonathanigler.github.io/files/BA_3150650.pdf)
+[Download cv here](http://jonathanigler.github.io/files/CV_JonathanIgler.pdf)
