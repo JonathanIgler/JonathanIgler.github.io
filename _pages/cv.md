@@ -18,14 +18,14 @@ Education
  * Colégio Geraldo de Lima, Sao Paulo, 2010
  * Colégio Exato, Sao Paulo, 2007 - 2009
  * Gisela Gymnasium, Munich, 2003 - 2007
- * SChwindschule, München, 2000 - 2003
+ * Schwindschule, München, 2000 - 2003
 
 Work experience
 ======
  * Currently: Junior Controller and Data Protection Coordinator at expert Warenvertrieb GmbH
-  * KER
-  * Tagesgeschäft
-  * Datenschutzthemen
+  * Creation and analysis of short term income statements and other important key figures
+  * Monitoring finances of over 62 facilities
+  * Training of emplyees, conduction of audits and assessments and maintainence and verification of all data processing activities in the company
   
 * Fall 2019: Working Student at expert SE
   * Leading in acquiring subsidies 
