@@ -17,9 +17,9 @@ Education
 Work experience
 ======
  * Currently: Junior Controller and Data Protection Coordinator at expert Warenvertrieb GmbH
-  *
-  *
-  *
+  * KER
+  * Tagesgeschäft
+  * Datenschutzthemen
   
 * Fall 2019: Working Student at expert SE
   * Leading in acquiring subsidies 
@@ -31,14 +31,13 @@ Work experience
   * Supervisor: Professor Git
   
  * 2014 - 2016: Meyer
-  *
-  *
-  *
+  * Stanzmaschinen
+  * Verbesserung der maschine
 
 * 2010-2012 : Language Teacher 
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git  
+  * English and German
+  * Private School: Lecturing from toddlers to grown-ups. School and TOEIC preparation
+  * Unsupervised: Preparing lectures and ...
 
  
   
