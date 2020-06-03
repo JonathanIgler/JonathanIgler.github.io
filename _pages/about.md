@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am working as a Junior Consultant and Data Protection Officer at expert SE. Welche Aufgaben in aktueller position?
+Currently I am working as a Junior Consultant and Data Protection Officer at expert Warenbetrieb GmbH. Welche Aufgaben in aktueller position?
 
 Throughout my career, I was able to work in the utter most different kinds of work. In my time as a Chief deputy at a local cinema, the variety of tasks made me realize of how much I am structured and interested in multi-tasking. Apart from being responsible for the finances and deciding on which movies to be played, I had to schedule my staff. 
 
