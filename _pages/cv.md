@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
- * Currently: Junior Controller and Data Protection Coordinator at expert Warenvertrieb GmbH
+* Currently: Junior Controller and Data Protection Coordinator at expert Warenvertrieb GmbH
   * Creation and analysis of short term income statements and other important key figures
   * Monitoring finances of over 62 facilities
   * Training of emplyees, conduction of audits and assessments and maintainence and verification of all data processing activities in the company
@@ -75,4 +75,4 @@ Teaching
   
 ======
 * 
-[Download cv here](http://jonathanigler.github.io/files/CV_JonathanIgler.pdf)
+[Download my a PDF of my CV here](http://jonathanigler.github.io/files/CV_JonathanIgler.pdf)
