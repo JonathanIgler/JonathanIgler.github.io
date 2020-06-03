@@ -1,7 +1,7 @@
 ---
-title: "Master Thesis"
+title: "Bachelor Thesis"
 collection: Thesis
-permalink: /thesis/master_thesis
+permalink: /thesis/bachelor_thesis
 excerpt: "Pay-as-you-live Konzepte in der Assekuranz"
 date: 2019-01-22
 venue: Leibniz Universität Hanover
