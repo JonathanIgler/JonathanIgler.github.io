@@ -14,7 +14,7 @@ Education
   * Thesis on Urban Logistics Routing Problems: Analysis of Heuristic Methods
   * Research on the relationship between mortality and morbidity related to the risk of dependence on care
 * B.S. in Economics, Leibniz Universität Hanover, 2018
- * Thesis on Pay-as-you-live models in insurance
+  * Thesis on Pay-as-you-live models in insurance
 * Studienkolleg Hannover, Hoschulzulassung, 2013-2014
 * Cursinho Objetivo, Sao Paulo, 2010 - 2012
 * Colégio Geraldo de Lima, Sao Paulo, 2010
