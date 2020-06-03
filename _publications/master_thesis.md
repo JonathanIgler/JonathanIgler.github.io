@@ -4,6 +4,7 @@ collection: Thesis
 permalink: /thesis/master_thesis
 excerpt: "Urban Logistic Problems: A comparative study on heuristic approaches"
 date: 2019-09-29
+venue: Leibniz Universität Hanover
 
 paperurl: 'http://jonathanigler.github.io/files/MA_3150650.pdf'
 
