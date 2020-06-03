@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-paperurl: 'http://jonathanigler.github.io/files/BA_3150650.pdf'
-
 {% include base_path %}
 
 Education
