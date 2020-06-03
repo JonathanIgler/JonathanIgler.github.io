@@ -1,6 +1,6 @@
 ---
 title: "Master Thesis"
-collection: publications
+collection: Thesis
 permalink: /thesis/master_thesis
 excerpt: ''
 date: 2019-09-29
