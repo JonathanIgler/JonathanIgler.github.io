@@ -5,7 +5,7 @@ permalink: /thesis/master_thesis
 excerpt: ''
 date: 2019-09-29
 
-paperurl: 'http://academicpages.github.io/files/MA_3150650.pdf'
+paperurl: 'http://jonathanigler.github.io/files/MA_3150650.pdf'
 
 ---
 This paper gives an overview of the recent problems that arose in the field of urban logistics focusing on the methods proposed to solve these problems. For this purpose, we introduce several exact methods, (meta-)heuristics, learnheuristics and hybridizations in a unified fashion. We especially stress the importance of recently proposed state-of-the-art machine learning methods incorporating crucial methods of Artificial Intelligence. Further, we propose a new classification scheme for the categorization of heuristics. This scheme is more extensive and provides more diversification dimensions than common in the current literature.\\
