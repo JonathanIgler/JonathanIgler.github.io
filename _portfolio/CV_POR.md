@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "POrtuguese Curriculum Vitae"
+title: "Portuguese Curriculum Vitae"
 permalink: /cv/portuguese
 author_profile: true
 redirect_from:
