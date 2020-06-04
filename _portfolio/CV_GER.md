@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "English Curriculum Vitae"
-permalink: /cv/English
+title: "German Curriculum Vitae"
+permalink: /cv/german
 author_profile: true
 redirect_from:
   - /resume
