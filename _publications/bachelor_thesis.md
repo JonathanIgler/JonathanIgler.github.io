@@ -10,7 +10,7 @@ paperurl: 'http://jonathanigler.github.io/files/BA_3150650.pdf'
 
 ---
 
-This paper gives an insight on a recent insurancee model for the private sector. After giving an insight on the state-of-the art models for both, customer and insurance side, we will challenge the proposed models to recently established laws of General Data Protection Regulation.
+This paper gives an insight on a recent insurancee model for the private sector. After giving an insight on the state-of-the art models for both, customer and insurance side, we will challenge the proposed models to recently established laws of General Data Protection Regulation for the German market.
 
 [Download thesis here](http://jonathanigler.github.io/files/BA_3150650.pdf)
 
