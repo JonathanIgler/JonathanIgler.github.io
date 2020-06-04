@@ -1,7 +1,7 @@
 ---
 title: 'Opinion on European aid for Lufthansa'
 date: 2020-06-22
-permalink: /posts/2020-06/Lufthansa_aid/
+permalink: /posts/2020/06/Lufthansa_aid/
 tags:
   - news
   - aviation
