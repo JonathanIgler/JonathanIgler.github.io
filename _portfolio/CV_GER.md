@@ -10,76 +10,49 @@ redirect_from:
 
 [Download the PDF of my German CV here](http://jonathanigler.github.io/files/CV_JonathanIgler_GER.pdf)
 
-Education
-======
-* M.S. in Banking and Finance, Leibniz Universität Hanover, 2019
-  * Thesis on Urban Logistics Routing Problems: Analysis of Heuristic Methods
-  * Research on the relationship between mortality and morbidity related to the risk of dependence on care
-* B.S. in Economics, Leibniz Universität Hanover, 2018
-  * Thesis on Pay-as-you-live models in insurance
-* Studienkolleg Hannover, Hoschulzulassung, 2013 - 2014
-* Cursinho Objetivo, Sao Paulo, 2010 - 2012
-* Colégio Geraldo de Lima, Sao Paulo, 2010
-* Colégio Exato, Sao Paulo, 2007 - 2009
-* Gisela Gymnasium, Munich, 2003 - 2007
-* Schwindschule, München, 2000 - 2003
-
-Work experience
-======
-* Fall 2019 - today: Junior Controller and Data Protection Coordinator at expert Warenvertrieb GmbH
-  * Creation and analysis of short term income statements and other important key figures
-  * Monitoring finances of over 62 facilities
-  * Training of emplyees, conduction of audits and assessments and maintainence and verification of all data processing activities in the company
-  
-* Fall 2019: Working Student at expert SE
-  * Leading in acquiring subsidies 
-  * Analysis of profit centers
-  
-* 2016 - 2019: Deputy Chief at Kinowelt Alfeld (Leine)
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
- * 2014 - 2016: Meyer
-  * Stanzmaschinen
-  * Verbesserung der maschine
-
-* 2010 - 2012 : Language Teacher 
-  * English and German
-  * Private School: Lecturing from toddlers to grown-ups. School and TOEIC preparation
-  * Unsupervised: Preparing lectures and ...
-
- 
-  
-Skills
-======
-* Languages
-  * Proficient in German and Portuguese (native)
-  * Proficient in English 
-  * Basic knowledge in French and Spanish
-  
-* Programming
-  * Statisticalk Software R
-  * Python
-  * HTML (Basics)
-    
-Talks/Lectures
-======
-  * Guerilla Marketing for Cinemas at Deadpool 2 premiere in Berlin, Germany.
-  
-Teaching
-======
-* Language Teacher at Wizard, Sao Paulo (Brazil)
-  * English
-  * German
-  
-Interests  
-======
-* Voluntary work at local food banks
-* Sports and fitness
-* Photography
-* Acquiring further skills in statistical methods and programming
-
-======
-* 
-
+Beruflicher Werdegang
+2019-heute Junior Controller und Datenschutzbeauftragter expert, Hannover
+• Risikomanagement in der "Corona- Task-Force" (Simulationen der
+Coronakrise und Kommunikation zu Banken und Bürgschaften) mit
+Sicherung liquider Mittel für die Aufrechterhaltung der Mutterfirma
+für drei geschäftlose Monate.
+• Berechnung sowie Analyse von betriebswirtschaftlichen Kennzahlen, wie dem EBIT/EBITDA, Break-Even-Point und NOPAT, erweiterten Auswertungen zahlreicher Perfomanceindikatoren, wie Umsatzverteilungen auf Mitarbeiter, Fläche oder Standortprofil
+• Bearbeiten und Sicherstellen der Konformität zur DSGVO, sowie das
+Bereitstellen von Mitarbeiterschulungen.
+2019 Werkstudent im Bereich Controlling expert, Hannover
+• Recherche und Akquisition von Fördermitteln im hohen sechsstelligen Bereich, primär für den neuen Logistikbau an der Geschäftsstelle.
+• Vergleichende Studie von führenden Business Intelligence Tools
+bezüglich Performance, User Interface und Integrierbarkeit.
+2016-2019 Deputy Movie Director Kinowelt
+• Programmierung von Filmen und Kasse.
+• Verhandlungen mit Vertretern internationaler Filmstudios über
+Konditionen von Filmaustrahlungen.
+• Aufstellung des Produktportfolios mithilfe der Erfolgsanalyse von
+neuen Filmen und Profitabilitätsrechnung der Speisekarte.
+• Ausführung von Marketingmaßnahmen zu Blockbustern wie "Bohemian Rhapsody", "Mamma Mia" oder "Grinch", die zu einer
+Steigerung der Kundennachfrage um bis zu 400% geführt haben,
+medial aufgenommen wurden (https://bit.ly/2UnrmTZ) und zu
+einer Einladung zur Deutschlandpremiere des Films "Deadpool 2" verhalfen (https://bit.ly/301GXMx).
+• Keynote Talk auf jährlichem Marketing-Event neurddeutscher Kinos.
+• Personalmanagement in Form von Neuakquisitionen, Schichtplanerstellung und Kündigungen.
+2011-2013 Leading Associate Wizard, São Paulo
+• Erstellen von Lehrplänen, -material sowie -methodik in der Lehre
+der englischen und deutschen Sprache, welche von 15 weiteren Lehrern einer marktführenden internationalen Sprachschule in
+Brasilien aufgenommen wurde.
+• Anwerbung von 50 zusätzlichen (ca. 10% vom Gesamtumfang)
+neuen Schülern durch die Anwendung der von mir erstellten Methoden.
+• Unterricht von 12 Klassen à 10 Schülern sowie von 10 VIP-Kunden
+(z.B. Führungskräfte wie Ricardo Figueiredo von Johnson&Johnson).
+Universitätsausbildung
+2018-2019 M.Sc. Wirtschaftswissenschaften Leibniz Universität Hannover
+Banking and Finance
+Masterarbeit: Urban Logistics Routing Problems: Analysis of
+Heuristic Methods
+2014-2018 B.Sc. Wirtschaftswissenschaften Leibniz Universi Hannover
+Schwerpunkt in Statistik, Investitionen und Finanzierung und
+Versicherungsbetriebslehre
+Bachelorarbeit: Pay-as-you-live Konzepte in der Assekuranz
+2013-2014 Hochschulzulassung Studienkolleg Hannover
+Abschlussnote 1.8
+2011-2012 Curso preparativo de faculdade Coursinho Objetivo, São Paulo
+Vorbereitung auf Hochschulzulassungsprüfung in Brasilien
