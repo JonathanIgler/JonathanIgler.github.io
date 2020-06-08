@@ -9,8 +9,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cvg/
+ #- #title: "CV"
+    #url: /cvg/
     
   - title: "Guide"
     url: /markdown/
