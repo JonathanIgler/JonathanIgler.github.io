@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-[Download the PDF of my German CV here](http://jonathanigler.github.io/files/CV_JonathanIgler_GER.pdf)
+[Download the PDF of my German CV here](http://jonathanigler.github.io/files/CV_JonathanIgler_ENG.pdf)
 
 Education
 ======
