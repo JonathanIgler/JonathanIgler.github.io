@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am working as a Junior Consultant and Data Protection Officer at expert Warenbetrieb GmbH. Welche Aufgaben in aktueller position?
+Currently I am working as a Junior Consultant and Data Protection Officer at expert Warenbetrieb GmbH. In this field I calculate and analyse relevant operative numbers as the EBIT/EBITDA, Break-Even-Point, NOPAT and sales breakdowns considering labour force, sales area and the respective location profile as well as ensuring the compliance with GDPR requirements, data protection whilst organising employee training.
 
-Throughout my career, I was able to work in the utter most different kinds of work. In my time as a Chief deputy at a local cinema, the variety of tasks made me realize of how much I am structured and interested in multi-tasking. Apart from being responsible for the finances and deciding on which movies to be played, I had to schedule my staff. 
+Throughout my career, I was able to work in the utter most different areas. In my time as a Chief deputy at a local cinema, the variety of tasks made me realize of how much I am structured and interested in multi-tasking. Apart from being responsible for the finances and deciding on which movies to be played, I had to schedule my staff. 
 
 After a deprivating year for the cinema business, I was able to spark my creativity in creating marketing campaigns, such as a Guerilla-Marketing campaign for the movie "Deadpool 2". Due to the sucess of the latter I had been allowed to join the German premiere in Berlin in 2018. Futhermore, I was also invited to talk about my idea and approach in launching these kinds of campaigns in several conferences for local cinemas.
 
