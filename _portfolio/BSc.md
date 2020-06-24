@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Bachelor degree"
-permalink: /cert/Bachelors
+permalink: /cert/bachelor
 author_profile: true
 redirect_from:
   - /resume
