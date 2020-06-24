@@ -10,9 +10,9 @@ redirect_from:
 
 This is my English Bachelor of Science Certificate:
 
-[Download the PDF of my English Bachelor of Science degree here](http://jonathanigler.github.io/files/BSc_Zeugnis_JCI_English.pdf)
+[Download the PDF of my English Bachelor of Science certificate here](http://jonathanigler.github.io/files/BSc_Zeugnis_JCI_English.pdf)
 
 
 This is my German Bachelor of Science Certificate:
 
-[Download the PDF of my German Bachelor of Science degree here](http://jonathanigler.github.io/files/BSc_Zeugnis_JCI_Deutsch.pdf)
+[Download the PDF of my German Bachelor of Science certificate here](http://jonathanigler.github.io/files/BSc_Zeugnis_JCI_Deutsch.pdf)
