@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "German Curriculum Vitae"
-permalink: /cv/german
+permalink: /cv_cert/german
 author_profile: true
 redirect_from:
   - /resume
