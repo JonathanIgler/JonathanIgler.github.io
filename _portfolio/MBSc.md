@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Certificate: Bachelor of Science"
-permalink: /cv_cert/mbsc
+permalink: /cv_cert/bsc
 author_profile: true
 redirect_from:
   - /resume
