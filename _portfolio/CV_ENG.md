@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "English Curriculum Vitae"
-permalink: /cv/English
+permalink: /cv_cert/English
 author_profile: true
 redirect_from:
   - /resume
