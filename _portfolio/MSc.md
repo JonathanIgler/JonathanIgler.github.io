@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Masters of Science degree"
-permalink: /cv/Masters
+permalink: /cert/Masters
 author_profile: true
 redirect_from:
   - /resume
